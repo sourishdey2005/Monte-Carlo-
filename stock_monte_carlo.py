@@ -1417,7 +1417,7 @@ st.markdown("""
 <hr style="border-color:#161829;margin-top:40px">
 <div style="color:#2e3350;font-size:11px;font-family:JetBrains Mono,monospace;
             text-align:center;padding:10px 0 20px">
-⚠️ FOR EDUCATIONAL & RESEARCH USE ONLY · NOT FINANCIAL ADVICE ·
-DATA: YAHOO FINANCE (FREE · NO API KEY) · MODEL: GEOMETRIC BROWNIAN MOTION (GBM)
+⚠️ BUILT BY SOURISH DEY  · NOT FINANCIAL ADVICE ·
+DATA: YAHOO FINANCE  · MODEL: GEOMETRIC BROWNIAN MOTION (GBM)
 </div>
 """, unsafe_allow_html=True)
